@@ -3,6 +3,12 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    padding:0;
+    margin:0;
+    background-color:#000000 ; /*Cover use when the animation doesn't work. ex:mobile*/
+    overflow-y: auto;
 }
 
 main[b-4wchlrxmbf] {
